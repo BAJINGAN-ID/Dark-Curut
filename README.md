@@ -10,4 +10,4 @@ pkg install bs4
 pkg install git
 git clone https://github.com/BAJINGAN-ID/Dark-Curut
 cd Dark-Curut
-sh Dark-Curut.sh
+sh B4J1N64N.sh
